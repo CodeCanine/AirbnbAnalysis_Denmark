@@ -25,9 +25,18 @@ Solution:
 - Gathering and visalizing data in Tableau
 
 Challenges faced, and what is learned:
+![image](https://user-images.githubusercontent.com/9075212/194214733-e28d853e-4f1b-4cec-9e6b-cfc568699017.png)
+
+
+
 
 - After reading in the listing.csv file into excel, multiple data shared the same cell, which needed to be divided into further cells.
 - For further data exploration, custom fields were required, that had to be calculated.
 - calendar.csv has more than 4.5 million rows, that MS Excel can not handle, thus SQL database was needed.
 - Since this was my second time using Tableau, and using it in depth analysis, it proved challenging to learn the tricks of the software
+
+![image](https://user-images.githubusercontent.com/9075212/194214641-ea43f36f-4d62-4c7c-8ceb-c24387344da8.png)
+
+The visualization is available on Tableau Public.
+Thank you for reading my project!
 
