@@ -1,3 +1,5 @@
+<img width="872" alt="keke" src="https://user-images.githubusercontent.com/9075212/194214492-b08aa630-e9fd-4ac6-b62a-85c33aea0783.PNG">
+
 # AirbnbAnalysis_Denmark
 
 Tableau link: https://public.tableau.com/app/profile/zoltan.mrsan/viz/OneNightinCopenhagen/Dashboard1#1
